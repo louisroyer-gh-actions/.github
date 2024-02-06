@@ -2,6 +2,9 @@ This organization is used to store Github Actions I create.
 
 Organization owner: [Louis Royer](https://github.com/louisroyer)
 
-Organization profile picture credits:
-- [Oren neu dag CC-BY-SA-3.0](https://commons.wikimedia.org/wiki/File:Pirate_Flag.svg)
-- [Github Inc. All rights reserved](https://avatars.githubusercontent.com/u/44036562)
+<details closed><summary>Organization profile picture credits</summary>
+<ul>
+  <li><a href="https://commons.wikimedia.org/wiki/File:Pirate_Flag.svg">Oren neu dag, CC-BY-SA-3.0</a></li>
+  <li><a href="https://avatars.githubusercontent.com/u/44036562">Github Inc., All rights reserved</a></li>
+</ul>
+</details>
